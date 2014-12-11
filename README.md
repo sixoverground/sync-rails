@@ -3,6 +3,8 @@ sync-rails
 
 This prototype demonstrates a simple syncing mechanism between an iOS app and a Ruby on Rails application.
 
+iOS: [sync-ios](https://github.com/sixoverground/sync-ios)
+
 General Concept
 ---------------
 
